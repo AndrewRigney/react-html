@@ -98,7 +98,7 @@ label {
   border-radius: 50%;
 
   /*  Rotate  */
-  animation-duration: 2s;
+  animation-duration: 4s;
   animation-name: rotate;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
