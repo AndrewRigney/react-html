@@ -82,3 +82,4 @@ exports.default = gulp.series(
 );
 exports.build = gulp.series(clean, gulp.parallel(html, css, js, vendorJs));
 exports.serve = gulp.series(serve);
+exports.clean = gulp.series(clean);
